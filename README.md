@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davidjaidar
 - 👀 I’m interested in ... learning how to code.
 - 🌱 I’m currently learning ... HTML, CSS and Javascript
-- 💞️ I’m looking to collaborate on ... anyone interested.
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... davidjaidarv@gmail.com
 
 <!---
